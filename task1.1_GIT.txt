@@ -1,0 +1,17 @@
+a56367b (HEAD -> main, origin/styles, origin/main, origin/develop, styles, develop) HEAD@{0}: merge develop: Fast-forward
+aace6b7 HEAD@{1}: checkout: moving from develop to main
+a56367b (HEAD -> main, origin/styles, origin/main, origin/develop, styles, develop) HEAD@{2}: merge styles: Fast-forward
+3e12970 HEAD@{3}: checkout: moving from styles to develop
+a56367b (HEAD -> main, origin/styles, origin/main, origin/develop, styles, develop) HEAD@{4}: commit: add styles.css
+f06cca0 (origin/images, images) HEAD@{5}: merge images: Fast-forward
+3e12970 HEAD@{6}: checkout: moving from develop to styles
+3e12970 HEAD@{7}: checkout: moving from images to develop
+f06cca0 (origin/images, images) HEAD@{8}: commit: change index.html
+1c494f6 HEAD@{9}: commit: add images
+3e12970 HEAD@{10}: checkout: moving from develop to images
+3e12970 HEAD@{11}: commit: add index.html
+aace6b7 HEAD@{12}: checkout: moving from main to develop
+aace6b7 HEAD@{13}: commit: add readme.txt
+baff90a HEAD@{14}: Branch: renamed refs/heads/master to refs/heads/main
+baff90a HEAD@{16}: commit (initial): first commit
+
